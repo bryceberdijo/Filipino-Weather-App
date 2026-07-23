@@ -1,0 +1,24 @@
+{
+  "name": "filipino-weather-app",
+  "version": "1.0.0",
+  "description": "This is a discord weather apps that has a feature where it can send reports on #WalangPasok on a specific city or area",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryceberdijo/Filipino-Weather-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/bryceberdijo/Filipino-Weather-App/issues"
+  },
+  "homepage": "https://github.com/bryceberdijo/Filipino-Weather-App#readme",
+  "dependencies": {
+    "discord.js": "^14.27.0"
+  }
+}
